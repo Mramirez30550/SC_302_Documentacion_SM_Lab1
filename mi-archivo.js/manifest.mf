@@ -1,4 +1,6 @@
 Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
-alert "Hola mundo"
+alert "Hola mundo_editado"
+Console.log("cambios en el achivo")
+
 
